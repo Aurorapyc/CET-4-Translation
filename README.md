@@ -124,19 +124,6 @@ Tieguanyin can be picked/collected throughout a/the year.
 
 新规则制定后，大家一定要遵守。
 
-16. 如何写对难度较高的单词或词组
-房子成为中国人有归属感的重要标志，并深入人心。
-Houses become the important signal/symbol of sense of belonging for Chinese people and this is commonly accepted/recognized.
-
-中国桥梁建设的一个飞跃
-A big achievement/advancement of Chinese bridge construction.
-
-中央电视台总部设有一条穿过大楼的专用通道。
-CCTV headquarter has a private/exclusive channel through the building.
-
-夜间有狼钻进了羊圈，叼走了羊。
-增加一个翻译方法：有 名词 动作，删掉有
-A wolf got into the sheepfold and took away a sheep during the night.
 ## 13. **语序原则**
 地点 时间 方式状语  （通过 使用 用） by + n/ by doing
 中国古代的人们道德水平很高。
@@ -171,6 +158,21 @@ They are correlated.
 
 推行家庭养老和社会养老结合的模式。
 We must/need to integrate household/family old-age support and social old-age care.
+
+## 16.如何写对难度较高的单词或词组
+
+房子成为中国人有归属感的重要标志，并深入人心。
+Houses become the important signal/symbol of sense of belonging for Chinese people and this is commonly accepted/recognized.
+
+中国桥梁建设的一个飞跃
+A big achievement/advancement of Chinese bridge construction.
+
+中央电视台总部设有一条穿过大楼的专用通道。
+CCTV headquarter has a private/exclusive channel through the building.
+
+夜间有狼钻进了羊圈，叼走了羊。
+增加一个翻译方法：有 名词 动作，删掉有
+A wolf got into the sheepfold and took away a sheep during the night.
 
 ## 17. 关于数字的翻译
 300名游客
